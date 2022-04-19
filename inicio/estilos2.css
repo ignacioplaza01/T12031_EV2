@@ -1,0 +1,93 @@
+body {
+    background-color: rgb(29, 29, 29);
+}
+
+form {
+    border-radius: 35px;
+}
+
+.div2 {
+    background-color: rgb(49, 49, 49);
+margin-left: 300px;
+margin-right: 300px;
+border-top: 1px solid;
+border-bottom: 1px solid;
+border-right: 1px solid;
+border-left: 1px solid;
+border-radius: 10px;
+  
+}
+
+.div2 img {
+    margin-left: -50px;
+}
+
+.navbar-nav {
+    margin-left: 300px;
+}
+
+
+.bi-camera-video-fill {
+    color: rgb(236, 69, 161);
+}
+
+.bi-patch-check-fill {
+    color: blue;
+
+}
+
+.bi-house, .bi-play-btn {
+    color: white;
+    margin-top: -15px;
+    margin-right: -45px;
+    margin-left: 20px;
+    width: 20px;
+    height: 30px;
+}
+
+
+input {
+    border-radius: 30px;
+    margin-left: 10px;
+}
+
+
+
+.div3 {
+    color: white;
+    background-color: rgb(49, 49, 49);
+margin-left: 300px;
+margin-right: 300px;
+border-top: 1px solid rgb(49, 49, 49);
+border-bottom: 1px solid rgb(49, 49, 49);
+border-right: 1px solid rgb(49, 49, 49);
+border-left: 1px solid rgb(49, 49, 49);
+border-radius: 10px;
+
+}
+
+button {
+    background-color: rgb(49, 49, 49);
+    border-style: none;
+}
+
+.boton {
+    width: 40px;
+    height: 40px;
+    border-radius: 35px;
+    background-color: rgb(92,92,92);
+}
+
+.bi-images {
+    margin-left: 150px;
+    color: greenyellow;
+}
+
+.bi-emoji-laughing {
+    color: yellow;
+    margin-left: 100px;
+}
+
+.bi-three-dots {
+    margin-left: 525px;
+}
